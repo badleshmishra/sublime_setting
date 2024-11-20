@@ -1,0 +1,34 @@
+{
+	"ignored_packages":
+	[
+		"LSP",
+		"Vintage",
+	],
+	"font_size":11, 
+	"always_show_minimap_viewport": true,
+	"minimap_horizontal_scrolling": true,
+	"caret_style": "solid",
+"show_encoding": true,
+	"show_full_path": false,
+
+	"index_files": true,
+	"save_on_focus_lost": true,
+	"margin": 0,
+	"line_padding_top": 12,
+	"line_padding_bottom": 12,
+
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"theme": "Material-Theme-Darker.sublime-theme",
+	
+	"material_theme_bullet_tree_indicator": true,
+	"material_theme_compact_sidebar": true,
+	 "adaptive_ui": false,
+	  "menu_visible": true,
+	"material_theme_tree_headings": true,
+	"material_theme_contrast_mode": true,
+	"material_theme_titlebar": true,
+	"material_theme_bright_scrollbars": true,
+	"material_theme_tabs_autowidth": true,
+	"material_theme_small_tab": true,
+	"font_face": "Consolas",
+}
