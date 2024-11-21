@@ -4,7 +4,8 @@
 		"LSP",
 		"Vintage",
 	],
-	"font_size":11, 
+	"font_size":10, 
+	"font_face": "JetBrains Mono NL",
 	"always_show_minimap_viewport": true,
 	"minimap_horizontal_scrolling": true,
 	"caret_style": "solid",
@@ -30,5 +31,6 @@
 	"material_theme_bright_scrollbars": true,
 	"material_theme_tabs_autowidth": true,
 	"material_theme_small_tab": true,
-	"font_face": "Consolas",
+	/*"font_face": "Consolas",*/
+	"dictionary": "Packages/Language - English/en_US.dic",
 }
