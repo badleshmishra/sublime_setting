@@ -10,6 +10,7 @@ Thank you for choosing this setup! By following these steps, you’ll be able to
 ---
 
 ## Setup Instructions for --Aura Theme Setup
+![aura-theme](https://github.com/user-attachments/assets/d7b8ff32-df3d-4bd4-868f-0a6cb2608784)
 
 ### Step 1: Clone the Repository
 
@@ -50,7 +51,8 @@ Once the repository and submodules are set up, restart Sublime Text to load the 
 ---
 
 ## Setup Instructions for-- Dark Theme 
-![sublime](https://github.com/user-attachments/assets/b4a2038d-baa3-4e61-a674-09db1919a0de)
+![dark](https://github.com/user-attachments/assets/b97a02ef-30be-4983-9aef-0931b5cc9536)
+
 
 If you prefer the **Dark Theme** instead of the default **Aura Theme**, you can easily switch by changing the branch from `aura-theme` to `dark-theme`.
 
