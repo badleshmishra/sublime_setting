@@ -50,6 +50,7 @@ Once the repository and submodules are set up, restart Sublime Text to load the 
 ---
 
 ## Setup Instructions for-- Dark Theme 
+![sublime](https://github.com/user-attachments/assets/b4a2038d-baa3-4e61-a674-09db1919a0de)
 
 If you prefer the **Dark Theme** instead of the default **Aura Theme**, you can easily switch by changing the branch from `aura-theme` to `dark-theme`.
 
