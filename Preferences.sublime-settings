@@ -1,39 +1,26 @@
 {
-	"ignored_packages":
-	[
+	"ignored_packages": [
 		"LSP",
-		"Vintage",
+		"Vintage"
 	],
-	"font_size":10, 
+	"font_size": 10,
 	"font_face": "JetBrains Mono NL",
 	"always_show_minimap_viewport": true,
 	"minimap_horizontal_scrolling": true,
 	"highlight_line": true,
 	"caret_style": "phase",
-	"trim_trailing_white_space_on_save": "true",
-"show_encoding": true,
+	"trim_trailing_white_space_on_save": true,
+	"show_encoding": true,
 	"show_full_path": false,
-	"word_wrap": "true",
-"translate_tabs_to_spaces": true,
-	"index_files": true,	
+	"word_wrap": true,
+	"translate_tabs_to_spaces": true,
+	"index_files": true,
 	"save_on_focus_lost": true,
 	"margin": 0,
 	"line_padding_top": 12,
 	"line_padding_bottom": 12,
-
 	"color_scheme": "Packages/Aura Theme Color Scheme/aura-theme.tmTheme",
 	"theme": "Adaptive.sublime-theme",
-	
-	"material_theme_bullet_tree_indicator": true,
-	"material_theme_compact_sidebar": true,
-	 "adaptive_ui": false,
-	  "menu_visible": true,
-	"material_theme_tree_headings": true,
-	"material_theme_contrast_mode": true,
-	"material_theme_titlebar": true,
-	"material_theme_bright_scrollbars": true,
-	"material_theme_tabs_autowidth": true,
-	"material_theme_small_tab": true,
-	/*"font_face": "Consolas",*/
-	"dictionary": "Packages/Language - English/en_US.dic",
+	"adaptive_ui": false,
+	"dictionary": "Packages/Language - English/en_US.dic"
 }
