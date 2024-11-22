@@ -2,6 +2,10 @@
 # Enhance Your Sublime Text and Terminus with Elegant Aesthetic Looks
 
 Thank you for choosing this setup! By following these steps, you’ll be able to elevate the look and feel of both your **Sublime Text** and **Terminus** terminal. Plus, you’ll get access to helpful **keyboard shortcuts** for **Terminus**.
+###  📕 Documentation
+
+-> **[Terminus Shortcuts](./KEYBINDINGS.md)**
+
 
 ---
 
